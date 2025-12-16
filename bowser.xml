@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Bowser</Name>
+  <Age>0</Age>
+  <Weight>150</Weight>
+  <Height>50</Height>
+  <AnimalID>0</AnimalID>
+</Animal>
